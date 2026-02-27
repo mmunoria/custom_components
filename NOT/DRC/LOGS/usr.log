@@ -1,0 +1,10 @@
+Pegasus 23.14-s006 W6eUyhvWDSmkstMrnkYP8g 2026-02-27 18:34:59 1315000 c17-orng-07.ad.mtu.edu
+Copyright 2024 Cadence Design Systems, Inc.
+All rights reserved worldwide.
+
+INFO:    Command Line Options: --log_dir LOGS -top_cell NOT -ui_data --control /home/campus15/mmunoria/progress_xp/NOT/DRC/pegasusdrcctl /opt/cadence-suite/sky130_release_0.0.4/Sky130_DRC/sky130_rev_0.0_1.0.drc.pvl
+INFO:    Launch host CPU: Model: 13th Gen Intel(R) Core(TM) i7-13700, OS: Red Hat Enterprise Linux release 9.7 (Plow), Logical cores: 24, Physical cores: 16, Cache: 30720 KB, CPU Speed: 1719.77 MHz
+         Launch host Memory: MemTotal: 31522 MB,  MemFree: 12752 MB,  SwapTotal: 4095 MB,  SwapFree: 4095 MB,  VmallocTotal: 33554431 MB,  VmallocUsed: 217 MB
+INFO:    Current path: /home/campus15/mmunoria/progress_xp/NOT/DRC
+INFO:    Run directory same as current path
+INFO:    Log directory: /home/campus15/mmunoria/progress_xp/NOT/DRC/LOGS
